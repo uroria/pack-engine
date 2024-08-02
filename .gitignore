@@ -1,0 +1,15 @@
+
+# Intellij
+.idea
+!.idea/icon.png
+*.iml
+*.ipr
+*.iws
+out/
+
+# Gradle
+.gradle
+build
+
+# Maven
+target
